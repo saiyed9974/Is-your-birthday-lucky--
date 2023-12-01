@@ -15,7 +15,7 @@ input{
     padding:1rem;
     background-color: rgb(1, 9, 22);
     border-radius: 5px;
-    border: solid yellow 3px;
+    border: solid rgb(226, 177, 43) 3px;
 
 }
 
@@ -33,7 +33,7 @@ label {
 }
 
 button {
-   background-color: yellow;
+   background-color: rgb(226, 177, 43);
    font-size: large;
    padding: 1rem;
    margin: auto;
