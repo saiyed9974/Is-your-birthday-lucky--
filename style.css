@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+input{ 
+   width: 80%;
+   height: 3vh;
+   margin-left: 3rem;  
+   padding:1rem;   
+}
+
+.container{
+
+    max-width: 600px;
+
+    margin: auto;
+    padding:1rem;
+    background-color: rgb(1, 9, 22);
+    border-radius: 5px;
+    border: solid yellow 3px;
+
+}
+
+label {
+
+   color: aliceblue;
+   display: block;
+   padding: 1rem;
+   margin:auto;
+}
+
+.fontw{
+   font-family:Nova Square;
+   color: rgb(226, 177, 43);
+}
+
+button {
+   background-color: yellow;
+   font-size: large;
+   padding: 1rem;
+   margin: auto;
+    display: block;
+    border: solid 3px white;
+    border-radius: 5px;
+}
+table, th, td {
+   background-color: rgb(255, 187, 0);
+   padding: 1rem;
+   margin: auto;
+   
+border: 1px solid white;
+border-collapse: collapse;
+}
