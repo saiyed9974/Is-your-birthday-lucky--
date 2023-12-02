@@ -49,3 +49,9 @@ table, th, td {
 border: 1px solid white;
 border-collapse: collapse;
 }
+#msgText {
+
+   color: white;
+   font-size: large;
+   text-align: center;
+}
