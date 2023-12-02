@@ -7,6 +7,23 @@ input{
    padding:1rem;   
 }
 
+body{
+   margin: 0px;
+   margin-top: 10vh;
+
+   background-color: grey;
+  
+}
+
+.list-item-inline {
+
+   display: inline;
+   padding:0rem 0.5rem;
+  
+   }
+
+   
+
 .container{
 
     max-width: 600px;
@@ -55,3 +72,23 @@ border-collapse: collapse;
    font-size: large;
    text-align: center;
 }
+
+footer{
+   
+   bottom: 0;
+   position: fixed;
+   border-top: solid 3px rgb(255, 187, 0);
+   padding:2rem 1rem;
+   color: white;
+   width: 100%;
+   background-color: black;
+}
+
+.center {
+   
+   margin-left: auto;
+   margin-right: auto;
+   width: 45%;  
+   display: inline-block;
+   
+ }
