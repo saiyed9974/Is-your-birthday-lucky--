@@ -12,8 +12,6 @@ checkbtn.addEventListener("click",function ClickHandler(){
     const showmsg = check_Luck(Luckynumber,sum);
     
     msgtext.innerText = showmsg;
-
-
     
 })
 
@@ -41,5 +39,4 @@ function check_Luck(Luckynumber,sum) {
     }
 
     return msg;
-
 }
